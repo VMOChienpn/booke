@@ -1,0 +1,48 @@
+.content {
+  width: calc(100% - 20rem);
+}
+
+img {
+  width: 40px;
+  border-radius: 50px;
+  float: left;
+}
+
+.logout {
+  position: relative;
+  font-size: 0.8rem;
+  overflow: hidden;
+  opacity: 0;
+  transition: opacity 0.45s;
+  -webkit-transition: opacity 0.35s;
+  color: #000;
+  padding-left: 4px;
+  cursor: pointer;
+}
+
+.logout:hover {
+  color: #60a5fa;
+  text-decoration: underline;
+}
+
+.button {
+  text-decoration: none;
+  float: right;
+  padding: 12px;
+  margin: 15px;
+  color: white;
+  width: 120px;
+  transition: width 0.35s;
+  -webkit-transition: width 0.35s;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+.button:hover {
+  width: 150px;
+}
+
+.button:hover .logout {
+  opacity: 0.9;
+}

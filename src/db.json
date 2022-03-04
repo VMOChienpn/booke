@@ -1,0 +1,252 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Management - Business Book",
+      "description": "Business management books are always in the group of most searched business books. Because you will have access to general as well as broader knowledge of economics and management. On the other hand, you can grasp some basic foundations of economic groups such as finance, human resources, marketing.",
+      "status": true,
+      "timeCreat_Update": "2021-10-11T10:22:25+07:00"
+    },
+    {
+      "id": 2,
+      "name": "Business finance books",
+      "description": "This series of business books is a useful tool to give you an understanding of the corporate financial system. Because through the compiled knowledge, you can learn how to mobilize and use capital as well as effective cash flow management skills to bring profits to your business.",
+      "status": true,
+      "timeCreat_Update": "2021-10-11T10:22:28+07:00"
+    },
+    {
+      "id": 3,
+      "name": "Marketing and Sales Books",
+      "description": "Through this line of business strategy books, you will learn how to research, analyze and plan closely to bring the value of products, services and corporate brand to potential customers. Above all, you will learn how to come up with creative tactics to maintain the relationship between business and customers.",
+      "status": true,
+      "timeCreat_Update": "2021-10-11T10:22:30+07:00"
+    },
+    {
+      "id": 4,
+      "name": "Business Leadership Books 1",
+      "description": "Therefore, many young people and leaders have come to this line of business books to learn about how to lead, operate and coordinate with employees to serve the goals that businesses and organizations propose. out. ",
+      "status": false,
+      "timeCreat_Update": "2021-10-14T13:35:36+07:00"
+    },
+    {
+      "id": 5,
+      "name": "Books enjoy life ",
+      "description": "Is a collection of good books about information and knowledge revolving around daily life: health care, child rearing, cooking, first aid for injured people, etc. Hopefully, through Newshop's regular bookcase, everyone will be equipped with a lot of useful information and tips to apply in your daily life.",
+      "status": false,
+      "timeCreat_Update": "2021-10-14T14:05:07+07:00"
+    },
+    {
+      "id": 6,
+      "name": "Book of Encyclopedia knowledge",
+      "description": "Is an invaluable treasure, awakening the potential power of human knowledge. Due to the increasingly urgent need for professional and encyclopedic knowledge, in order to meet the reading and research needs of many readers today",
+      "status": false,
+      "timeCreat_Update": "2021-10-14T15:07:26+07:00"
+    },
+    {
+      "id": 7,
+      "name": "Agricul ture book - bonsai",
+      "description": " Especially for Vietnam, a country with agricultural production as the foundation, so grasping agricultural knowledge and techniques is extremely essential. Agricultural techniques and knowledge will contribute to increased productivity and unexpected efficiency in the process of growing crops and livestock.",
+      "status": true,
+      "timeCreat_Update": "2021-10-11T10:22:40+07:00"
+    },
+    {
+      "id": 8,
+      "name": "Sweet Book",
+      "description": "Book for love",
+      "status": false,
+      "timeCreat_Update": "2021-10-14T13:41:54+07:00"
+    },
+    {
+      "id": 10,
+      "name": "phiêu lưu 12",
+      "description": "phiêu lưu12",
+      "status": false,
+      "timeCreat_Update": "2021-10-14T15:06:42+07:00"
+    },
+    {
+      "id": 11,
+      "name": "phiêu luwu",
+      "description": "phiêu lưu",
+      "status": true,
+      "timeCreat_Update": "2021-10-14T15:24:01+07:00"
+    }
+  ],
+  "products": [
+    {
+      "name": "Self-Training, Self-Leadership",
+      "price": 952001,
+      "import_price": 700001,
+      "tax": 5,
+      "status": true,
+      "image": "https://newshop.vn/public/uploads/products/42100/sach-huan-luyen-tu-than-lanh-dao-tu-than.jpg",
+      "description": "stSelf-Training, Self-Leadership - focuses on the concept of using yourself as a coaching tool, a key aspect of coaching and coaching.ring",
+      "categoryID": 1,
+      "author": "Edgar H. Schein",
+      "publishing_year": "2021",
+      "date_submitted": "2021-09-28",
+      "timeCreat_Update": "2021-10-14T10:32:39+07:00",
+      "id": 1
+    },
+    {
+      "name": "Serial Killers in the Financial World",
+      "price": 96000,
+      "import_price": 72000,
+      "tax": 5,
+      "status": true,
+      "image": "https://newshop.vn/public/uploads/products/41969/sach-nhung-sat-thu-hang-loat-trong-gioi-tai-chinh.jpg",
+      "description": "You have worked your whole life to amass a relatively large fortune, or received it from a close family member. Either way, this is your money, and you certainly don't want it lost or in the hands of someone else. But it's not as easy as you think. Serial killers in the financial world are everywhere, snooping and spying on you, always looking for ways to cut, extract, and even appropriate your entire valuable asset.",
+      "categoryID": 1,
+      "author": "Bruce Kelly, Tom Ajamie",
+      "publishing_year": "2021",
+      "date_submitted": "2021-09-28",
+      "timeCreat_Update": "2021-10-13T10:12:16+07:00",
+      "id": 2
+    },
+    {
+      "name": "My First Deal 2",
+      "price": 238000,
+      "import_price": 190000,
+      "tax": 7,
+      "status": true,
+      "image": "https://newshop.vn/public/uploads/products/41515/sach-thuong-vu-dau-tien-cua-toi.jpg",
+      "description": "My First Deal - is the most basic encyclopedia of business - finance & money that children need to know in today's time full of temptations and financial risks.",
+      "categoryID": 2,
+      "author": "Asia Books",
+      "publishing_year": "2021",
+      "date_submitted": "2021-09-28",
+      "timeCreat_Update": "2021-10-14T15:09:00+07:00",
+      "id": 3
+    },
+    {
+      "name": "Business Innovation - Overcoming the Crisis",
+      "price": 440000,
+      "import_price": 330000,
+      "tax": 0,
+      "status": true,
+      "image": "https://newshop.vn/public/uploads/products/37126/doi-moi-doanh-nghiep-vuot-qua-khung-hoang.jpg",
+      "description": "Business Innovation - Overcoming the Crisis - The economy deviating from the growth trajectory is an undesirable scenario, but it is happening and has serious effects around the world.",
+      "categoryID": 2,
+      "author": "Tendayi Viki,Esther Gons,Dan Toma,Frederic Laloux,Jordan Berg,Jeff Rosenblum ",
+      "publishing_year": "2021",
+      "date_submitted": "2021-09-28",
+      "timeCreat_Update": "2021-10-14T13:42:16+07:00",
+      "id": 4
+    },
+    {
+      "name": "Food - Starting a Catering Service Business (Set of 2 Books)",
+      "price": 260000,
+      "import_price": 200000,
+      "tax": 0,
+      "status": true,
+      "image": "https://newshop.vn/public/uploads/products/37126/doi-moi-doanh-nghiep-vuot-qua-khung-hoang.jpg",
+      "description": "Food - Starting a Food Service Business (Set of 2) - the fourth book series in the Hashtag Startup series of books, will provide the most overview, as well as provide full details of the steps to build a business model. catering to help you get a solid foundation on which to grow your restaurant.",
+      "categoryID": 3,
+      "author": "The Staff of Entrepreneur Media Rich Mintzer",
+      "publishing_year": "2021",
+      "date_submitted": "2021-09-28",
+      "timeCreat_Update": "2021-10-13T10:12:30+07:00",
+      "id": 5
+    },
+    {
+      "name": "5 Stars Customer Service",
+      "price": 103000,
+      "import_price": 65000,
+      "tax": 0,
+      "status": true,
+      "image": "https://newshop.vn/public/uploads/products/15150/dich-vu-khach-hang-5-sao.png",
+      "description": "5 Star Customer Service will answer the question 'What makes customers can't leave you?' . Let's find the answer with 5 Star Customer Service!",
+      "categoryID": 3,
+      "author": "Michael Heppell",
+      "publishing_year": "2018",
+      "date_submitted": "2021-09-28",
+      "timeCreat_Update": "2021-10-13T10:12:35+07:00",
+      "id": 6
+    },
+    {
+      "name": "Behind a BIG Decision",
+      "price": 91800,
+      "import_price": 65000,
+      "tax": 0,
+      "status": true,
+      "image": "https://newshop.vn/public/uploads/products/41322/sach-dang-sau-mot-quyet-dinh-lon.jpg",
+      "description": "Behind A Big Decision - The book consists of 6 large sections, containing 5 questions for readers to ask themselves in a simple, but no less profound way to explore thinking.",
+      "categoryID": 4,
+      "author": "Joseph L Badaracco",
+      "publishing_year": "2020",
+      "date_submitted": "2021-09-28",
+      "timeCreat_Update": "2021-10-13T10:12:39+07:00",
+      "id": 7
+    },
+    {
+      "name": "New Power - How Will The World's Future Be Shaped?",
+      "price": 150400,
+      "import_price": 11000,
+      "tax": 0,
+      "status": true,
+      "image": "https://newshop.vn/public/uploads/products/41322/sach-dang-sau-mot-quyet-dinh-lon.jpg",
+      "description": "New Power - How Will The World's Future Be Shaped? - who have built influential social movements around the world - have identified the Internet as a kind of power capable of distributing social resources.",
+      "categoryID": 4,
+      "author": "Henry Timms, Jeremy Heimans",
+      "publishing_year": "2020",
+      "date_submitted": "2021-09-28",
+      "timeCreat_Update": "2021-10-13T10:12:44+07:00",
+      "id": 8
+    },
+    {
+      "name": "Eagles Sometimes Fly Lower Than Chickens",
+      "price": 46980,
+      "import_price": 20000,
+      "tax": 0,
+      "status": false,
+      "image": "https://newshop.vn/public/uploads/products/42244/sach-dai-bang-co-khi-bay-thap-hon-ga.jpg",
+      "description": "Eagles Can Fly Lower Than Chickens - His appearance is not eye-catching, graduated from an ordinary local school, and only at the college level, but among the people who applied for jobs, which students were students? Graduates of prestigious schools, masters and doctorates, his performance is the most special.",
+      "categoryID": 6,
+      "author": "Truong Thiet Thanh",
+      "publishing_year": "2020",
+      "date_submitted": "2021-09-28",
+      "timeCreat_Update": "2021-10-14T13:40:43+07:00",
+      "id": 9
+    },
+    {
+      "name": "Eagles Sometimes Fly Lower Than Chickens",
+      "price": 46980,
+      "import_price": 20000,
+      "tax": 0,
+      "status": false,
+      "image": "https://newshop.vn/public/uploads/products/42244/sach-dai-bang-co-khi-bay-thap-hon-ga.jpg",
+      "description": "Eagles Can Fly Lower Than Chickens - His appearance is not eye-catching, graduated from an ordinary local school, and only at the college level, but among the people who applied for jobs, which students were students? Graduates of prestigious schools, masters and doctorates, his performance is the most special.",
+      "categoryID": 4,
+      "author": "Truong Thiet Thanh",
+      "publishing_year": "2020",
+      "date_submitted": "2021-09-28",
+      "timeCreat_Update": "2021-10-14T14:13:02+07:00",
+      "id": 10
+    },
+    {
+      "name": "123123",
+      "price": 12312,
+      "import_price": 3123123,
+      "tax": 123,
+      "status": true,
+      "image": "12312",
+      "description": "3123123",
+      "categoryID": "5",
+      "author": "123123",
+      "publishing_year": 123,
+      "date_submitted": "2021-11-26",
+      "timeCreat_Update": "2021-11-16T16:12:43+07:00",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "email": "phamngocchien.2308@gmail.com",
+      "password": "$2a$10$lGaD0u5uhgDceUiSelBSWO59TQO6XCo9KF4Aza6xJ7WpmPaKXHHKa",
+      "id": 7,
+      "name": "Phạm Ngọc Chiến",
+      "phone": "+84917462471",
+      "address": "Xóm 24, Xuân Hồng",
+      "timeCreat_Update": "2021-10-14T15:55:27+07:00"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+select {
+  appearance: none;
+  background-color: transparent;
+  border: none;
+  padding: 1rem 0.5rem;
+  margin: 0;
+  width: calc(100% + 10px);
+  cursor: inherit;
+  line-height: inherit;
+  z-index: 1;
+  outline: none;
+  font-weight: 500;
+}
+
+select::-ms-expand {
+  display: none;
+}
+.select {
+  display: grid;
+  grid-template-areas: "select";
+  align-items: center;
+  position: relative;
+  min-width: 70px;
+  cursor: pointer;
+  line-height: 1.1;
+  background-color: #e5e7eb;
+  padding-right: 10px;
+}
+.select select,
+.select::after {
+  grid-area: select;
+}
+.select:not(.select--multiple)::after {
+  content: "";
+  justify-self: end;
+  width: 0.8em;
+  height: 0.5em;
+  background-color: rgb(82, 82, 82);
+  clip-path: polygon(100% 0%, 0 0%, 50% 100%);
+}

@@ -1,0 +1,86 @@
+{
+    "name": "booke-admin",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@craco/craco": "^6.3.0",
+        "@testing-library/jest-dom": "^5.11.4",
+        "@testing-library/react": "^11.1.0",
+        "@testing-library/user-event": "^12.1.10",
+        "@types/jest": "^26.0.15",
+        "@types/node": "^12.0.0",
+        "@types/react": "^17.0.0",
+        "@types/react-dom": "^17.0.0",
+        "@types/react-router-dom": "^5.3.0",
+        "axios": "^0.21.4",
+        "clsx": "^1.1.1",
+        "cross-env": "^7.0.3",
+        "formik": "^2.2.9",
+        "json-server": "^0.17.0",
+        "moment": "^2.29.1",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-icons": "^4.2.0",
+        "react-redux": "^7.2.5",
+        "react-router-dom": "^5.3.0",
+        "react-scripts": "4.0.3",
+        "recharts": "^2.1.4",
+        "redux": "^4.1.1",
+        "redux-devtools-extension": "^2.13.9",
+        "redux-thunk": "^2.3.0",
+        "typescript": "^4.1.2",
+        "web-vitals": "^1.0.1",
+        "yup": "^0.32.9"
+    },
+    "scripts": {
+        "start": "cross-env TAILWIND_MODE=watch craco start",
+        "server": "json-server src/db.json -m ./node_modules/json-server-auth --port 5005",
+        "build": "craco build",
+        "test": "craco test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^13.1.0",
+        "@commitlint/config-conventional": "^13.1.0",
+        "@types/react-redux": "^7.1.18",
+        "@types/recharts": "^1.8.20",
+        "@types/redux": "^3.6.0",
+        "@types/redux-devtools-extension": "^2.13.2",
+        "@types/redux-thunk": "^2.1.0",
+        "@typescript-eslint/eslint-plugin": "^4.31.2",
+        "@typescript-eslint/parser": "^4.31.2",
+        "autoprefixer": "^9",
+        "eslint": "^7.32.0",
+        "eslint-config-airbnb": "^18.2.1",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-import": "^2.24.2",
+        "eslint-plugin-jsx-a11y": "^6.4.1",
+        "eslint-plugin-prettier": "^4.0.0",
+        "eslint-plugin-react": "^7.26.0",
+        "eslint-plugin-react-hooks": "^4.2.0",
+        "husky": "^7.0.2",
+        "json-server-auth": "^2.1.0",
+        "postcss": "^7",
+        "postcss-cli": "^8.3.1",
+        "prettier": "2.4.1",
+        "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.14"
+    }
+}

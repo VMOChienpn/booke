@@ -1,0 +1,7 @@
+.error {
+  color: red;
+  align-self: flex-end;
+  font-size: 12px;
+  font-style: italic;
+  line-height: 2px;
+}
